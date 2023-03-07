@@ -1,6 +1,6 @@
 # Sistema de cadastro e login com php e mysql
 Sistema de cadastro e login utilizando PHP e MySQL no back-end.
-##
+
 O sistema conta com uma tela de registro, login, welcome que é direcionada através do "login", e por último uma tela de redefinição de senha.
 ##
 ![image](https://user-images.githubusercontent.com/97931181/223313188-2af84f31-9a38-437d-ab15-78e1aae7ce1a.png)
